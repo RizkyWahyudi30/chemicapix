@@ -87,3 +87,15 @@ All steps run directly in the browser.
 ├── package.json                # Daftar dependency (Vite, React, dll)
 └── vite.config.js              # Konfigurasi Vite
 ```
+
+---
+
+## Installation 
+
+1. Cloning the repository :
+   ```bash
+   git clone
+   ```
+3. Enter the project directory
+4. Install depedencies
+5. Run development server
