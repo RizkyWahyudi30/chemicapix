@@ -90,12 +90,23 @@ All steps run directly in the browser.
 
 ---
 
-## Installation 
+## Installation
 
 1. Cloning the repository :
    ```bash
-   git clone
+   git clone https://github.com/RizkyWahyudi30/chemicapix.git
    ```
-3. Enter the project directory
-4. Install depedencies
-5. Run development server
+2. Enter the project directory
+   ```bash
+   cd chemicapix 
+   ```
+3. Install depedencies
+   ```bash
+   npm install
+   ```
+4. Run development server
+   ```bash
+   npm run dev
+   ```
+
+--- 
